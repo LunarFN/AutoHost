@@ -1,0 +1,27 @@
+{
+  "name": "lunar-engine",
+  "version": "2.0.0",
+  "description": "basicly a alternative to FN.AutoHost by twin1dev",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LunarFN/lunar-engine.git#JavaScript"
+  },
+  "keywords": [
+    "Fortnite"
+  ],
+  "author": "not_secret1337",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LunarFN/lunar-engine/issues"
+  },
+  "homepage": "https://github.com/LunarFN/lunar-engine/tree/JavaScript#readme",
+  "dependencies": {
+    "dll-inject": "^0.0.3",
+    "ps-tree": "^1.2.0"
+  }
+}
